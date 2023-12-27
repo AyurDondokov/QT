@@ -1,0 +1,8 @@
+{
+    "title": "UserInteraction",
+    "identifier": "com.yourcompany.wizardEVAP.UserInteraction",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
