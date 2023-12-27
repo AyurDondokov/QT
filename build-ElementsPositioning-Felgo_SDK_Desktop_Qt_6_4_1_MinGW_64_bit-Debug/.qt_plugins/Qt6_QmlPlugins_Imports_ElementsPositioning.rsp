@@ -1,0 +1,9 @@
+-rootPath
+E:/Git/QT/ElementsPositioning
+-cmake-output
+-output-file
+E:/Git/QT/build-ElementsPositioning-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ElementsPositioning.cmake
+-importPath
+E:/Git/QT/build-ElementsPositioning-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+E:/Felgo/Felgo/mingw_64/./qml

@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5d7e5d3be3f694c1a481.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ElementPositions",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ElementPositions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElementPositions-Debug-72db9d66a313f2145e18.json",
+					"name" : "ElementPositions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ElementPositions_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElementPositions_autogen-Debug-902a888bd2d95c852c01.json",
+					"name" : "ElementPositions_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ElementPositions_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElementPositions_autogen_timestamp_deps-Debug-76c824e6b660afcff47f.json",
+					"name" : "ElementPositions_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ElementPositions_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElementPositions_qmlimportscan-Debug-7a58b1bae8546dfbdb8d.json",
+					"name" : "ElementPositions_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Git/QT/build-ElementPositions-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "E:/Git/QT/ElementPositions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
