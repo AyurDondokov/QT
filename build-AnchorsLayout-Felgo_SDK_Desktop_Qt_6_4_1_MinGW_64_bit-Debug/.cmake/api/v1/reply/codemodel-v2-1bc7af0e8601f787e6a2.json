@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-46766b64b10fd486cee3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AnchorsLayout",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AnchorsLayout::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnchorsLayout-Debug-af3498ed208dbe2580ac.json",
+					"name" : "AnchorsLayout",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AnchorsLayout_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnchorsLayout_autogen-Debug-6a588482c46a674ad151.json",
+					"name" : "AnchorsLayout_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AnchorsLayout_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnchorsLayout_autogen_timestamp_deps-Debug-abc5928454c1d482c1e8.json",
+					"name" : "AnchorsLayout_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AnchorsLayout_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnchorsLayout_qmlimportscan-Debug-1bde6b162402386af1e5.json",
+					"name" : "AnchorsLayout_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Git/QT/build-AnchorsLayout-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "E:/Git/QT/AnchorsLayout"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
